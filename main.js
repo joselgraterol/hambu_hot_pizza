@@ -34,7 +34,7 @@ const products = [
   // hamburguesas
   {
     id: 1,
-    img: "images/ham-1.png",
+    img: "https://imgur.com/ND5D4U7",
     name: "Hamburguesa de Carne 1",
     price: 5,
     description: "esta es la descripcion del producto",
@@ -44,7 +44,7 @@ const products = [
   },
   {
     id: 2,
-    img: "images/ham-2.png",
+    img: "https://imgur.com/ARQx0hV",
     name: "Hamburguesa de Carne 2",
     price: 8,
     description: "esta es la descripcion del producto",
@@ -54,7 +54,7 @@ const products = [
   },
   {
     id: 3,
-    img: "images/ham-5.png",
+    img: "https://imgur.com/8mOdpdm",
     name: "Hamburguesa de Carne 3",
     price: 5,
     description: "esta es la descripcion del producto",
@@ -63,7 +63,7 @@ const products = [
   },
   {
     id: 4,
-    img: "images/ham-3.png",
+    img: "https://imgur.com/owUkhBb",
     name: "Hamburguesa de Pollo 1",
     price: 8,
     description: "esta es la descripcion del producto",
@@ -72,7 +72,7 @@ const products = [
   },
   {
     id: 5,
-    img: "images/ham-4.png",
+    img: "https://imgur.com/k3BP1LE",
     name: "Hamburguesa de Pollo 2",
     price: 4,
     description: "esta es la descripcion del producto",
@@ -81,7 +81,7 @@ const products = [
   },
   {
     id: 12,
-    img: "images/ham-6.png",
+    img: "https://imgur.com/mNTVgdO",
     name: "Hamburguesa de Pollo 3",
     price: 2,
     description: "esta es la descripcion del producto",
@@ -92,7 +92,7 @@ const products = [
   //hot dogs
   {
     id: 21,
-    img: "images/hot-1.png",
+    img: "https://imgur.com/892RFop",
     name: "Combo de 3 Perros Calientes",
     price: 2,
     description: "esta es la descripcion del producto",
@@ -101,7 +101,7 @@ const products = [
   },
   {
     id: 22,
-    img: "images/hot-3.png",
+    img: "https://imgur.com/jZOelgs",
     name: "Perro Caliente con Papas",
     price: 1.5,
     description: "esta es la descripcion del producto",
@@ -110,7 +110,7 @@ const products = [
   },
   {
     id: 23,
-    img: "images/hot-2.png",
+    img: "https://imgur.com/SyYem3O",
     name: "Perro Caliente",
     price: 1,
     description: "esta es la descripcion del producto",
@@ -121,7 +121,7 @@ const products = [
   //Pizzas
   {
     id: 100,
-    img: "images/pizza-1.png",
+    img: "https://imgur.com/O95oqHW",
     name: "Pizza 1",
     sizes: [
       {
@@ -143,7 +143,7 @@ const products = [
   },
   {
     id: 101,
-    img: "images/pizza-2.png",
+    img: "https://imgur.com/LoMYfib",
     name: "Pizza 2",
     sizes: [
       {
@@ -166,7 +166,7 @@ const products = [
   },
   {
     id: 103,
-    img: "images/pizza-3.png",
+    img: "https://imgur.com/bxzbVrv",
     name: "Pizza 3",
     sizes: [
       {
@@ -188,7 +188,7 @@ const products = [
   },
   {
     id: 104,
-    img: "images/pizza-4.png",
+    img: "https://imgur.com/VZBUUQ8",
     name: "Pizza 4",
     sizes: [
       {
@@ -212,7 +212,7 @@ const products = [
   //ensaladas
   {
     id: 31,
-    img: "images/ensa-1.png",
+    img: "https://imgur.com/ruU6s8D",
     name: "Ensalada 1",
     price: 4,
     description: "esta es la descripcion del producto",
@@ -221,7 +221,7 @@ const products = [
   },
   {
     id: 33,
-    img: "images/ensa-2.png",
+    img: "https://imgur.com/YmVcr6H",
     name: "Ensalada 2",
     price: 5,
     description: "esta es la descripcion del producto",
@@ -231,7 +231,7 @@ const products = [
   },
   {
     id: 34,
-    img: "images/ensa-3.png",
+    img: "https://imgur.com/1rr1lh1",
     name: "Ensalada 3",
     price: 3,
     description: "esta es la descripcion del producto",
@@ -240,7 +240,7 @@ const products = [
   },
   {
     id: 35,
-    img: "images/ensa-4.png",
+    img: "https://imgur.com/WTO50ER",
     name: "Ensalada 4",
     price: 2,
     description: "esta es la descripcion del producto",
